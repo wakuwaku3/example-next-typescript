@@ -1,0 +1,34 @@
+{
+  "name": "example-next-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wakuwaku3/example-next-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wakuwaku3/example-next-typescript/issues"
+  },
+  "homepage": "https://github.com/wakuwaku3/example-next-typescript#readme",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.20",
+    "@zeit/next-typescript": "^1.1.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-react": "^7.13.0",
+    "fork-ts-checker-webpack-plugin": "^1.3.7",
+    "typescript": "^3.5.2"
+  }
+}
