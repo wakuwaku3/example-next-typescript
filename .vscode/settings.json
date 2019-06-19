@@ -1,6 +1,12 @@
 {
   "prettier.eslintIntegration": true,
-  "cSpell.words": ["esnext", "readonly", "zeit"],
+  "cSpell.words": [
+    "csstype",
+    "esnext",
+    "readonly",
+    "theming",
+    "zeit"
+  ],
   "files.exclude": {
     "**/node_modules": true,
     "**/.next": true,

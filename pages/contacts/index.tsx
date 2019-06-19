@@ -5,7 +5,7 @@ import Link from 'next/link';
 
 const styles = createStyles({
   body: {
-    color: 'red'
+    color: 'blue'
   }
 });
 
@@ -15,8 +15,8 @@ const Page: React.FunctionComponent<WithSheet<keyof typeof styles>> = props => {
   return (
     <div {...others} className={body}>
       Welcome to next.ts!
-      <Link href="/contacts">
-        <a>contacts</a>
+      <Link href="/">
+        <a>home</a>
       </Link>
     </div>
   );
