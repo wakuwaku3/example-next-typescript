@@ -20,7 +20,7 @@
   "homepage": "https://github.com/wakuwaku3/example-next-typescript#readme",
   "dependencies": {
     "module-alias": "^2.2.0",
-    "next": "^8.1.0",
+    "next": "^13.0.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-jss": "^8.6.1"
